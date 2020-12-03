@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TheDate Component renders the UI as expected 1`] = `
+<div>
+  <p>
+    Hello, 
+    world
+    !
+  </p>
+  <button
+    onClick={[Function]}
+  >
+    Friend
+  </button>
+  <br />
+  <button
+    onClick={[Function]}
+  >
+    React
+  </button>
+  <br />
+  <button
+    onClick={[Function]}
+  >
+    World
+  </button>
+</div>
+`;
