@@ -1,0 +1,9 @@
+.accordion-container{
+    list-style-type: none;
+    margin : 2px;
+    padding: 2px;
+}
+
+.accordion-content{
+    margin-top: 2px;
+}

@@ -1,0 +1,129 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Accordian Component only opens one section at a time 1`] = `
+<ul>
+  <li
+    key="0"
+  >
+    <button
+      onClickk={[Function]}
+    >
+      Section 1
+    </button>
+  </li>
+  <li
+    key="1"
+  >
+    <button
+      onClickk={[Function]}
+    >
+      Section 2
+    </button>
+  </li>
+  <li
+    key="2"
+  >
+    <button
+      onClickk={[Function]}
+    >
+      Section 3
+    </button>
+  </li>
+</ul>
+`;
+
+exports[`Accordian Component open any clicked section 1`] = `
+<ul>
+  <li
+    key="0"
+  >
+    <button
+      onClickk={[Function]}
+    >
+      Section 1
+    </button>
+  </li>
+  <li
+    key="1"
+  >
+    <button
+      onClickk={[Function]}
+    >
+      Section 2
+    </button>
+  </li>
+  <li
+    key="2"
+  >
+    <button
+      onClickk={[Function]}
+    >
+      Section 3
+    </button>
+  </li>
+</ul>
+`;
+
+exports[`Accordian Component renders empty given no sections 1`] = `
+<ul>
+  <li
+    key="0"
+  >
+    <button
+      onClickk={[Function]}
+    >
+      Section 1
+    </button>
+  </li>
+  <li
+    key="1"
+  >
+    <button
+      onClickk={[Function]}
+    >
+      Section 2
+    </button>
+  </li>
+  <li
+    key="2"
+  >
+    <button
+      onClickk={[Function]}
+    >
+      Section 3
+    </button>
+  </li>
+</ul>
+`;
+
+exports[`Accordian Component renders empty without error 1`] = `
+<ul>
+  <li
+    key="0"
+  >
+    <button
+      onClickk={[Function]}
+    >
+      Section 1
+    </button>
+  </li>
+  <li
+    key="1"
+  >
+    <button
+      onClickk={[Function]}
+    >
+      Section 2
+    </button>
+  </li>
+  <li
+    key="2"
+  >
+    <button
+      onClickk={[Function]}
+    >
+      Section 3
+    </button>
+  </li>
+</ul>
+`;

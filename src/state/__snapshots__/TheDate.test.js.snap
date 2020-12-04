@@ -1,7 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`TheDate Component renders the UI as expected 1`] = `
-<div>
-  2020. 12. 3. 오전 9:11:15
-</div>
-`;
